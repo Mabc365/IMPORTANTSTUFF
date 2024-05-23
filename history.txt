@@ -1,0 +1,1277 @@
+clear
+ls
+clear
+ls
+clear
+cd
+clear
+neofetch
+clear
+nvim
+sudo
+clear
+ls
+clear
+ls
+clear
+ls
+winget
+clear
+irm get.scoop.sh | iex
+irm https://christitus.com/win | iex
+clear
+ls
+ls -la
+clear
+ls
+exit
+clear
+ls
+clear
+ls
+clear
+irm
+help:
+help
+help -h
+help -help irm
+ls
+z
+z clear
+z desktop
+ls
+cd .config
+ls
+cd powershell
+ls
+nvim xube.omp.json
+clear
+ls
+clear
+cd
+clear
+exit
+wsl.exe --update
+clear
+ls
+ls -la
+clear
+ls
+cler
+clear
+echo $nu
+cd Appdata\Roaming
+ls
+cd nu
+cd nushell
+ls
+nvim config.nu
+clear
+ls
+clear
+oh-my-posh init nu\
+oh-my-posh init nu
+clear
+oh-my-posh init nu
+oh-my-posh
+oh-my-posh prompt
+oh-my-posh prompt -c
+cler
+clear
+ls
+clear
+ls
+nvim config.nu
+oh-my-posh init nu
+ls
+sudo nvim $nu.env-path
+ls
+nvim config.nu
+clear
+oh-my-posh init nu
+clear
+ls
+cd ..
+ls
+echo $nu.env-path
+ls
+cd nushell
+ls
+nvim config.nu
+clear
+ls
+clear
+ls
+clear
+ls
+ls -la
+nvim oh-my-posh.nu
+clear
+ls
+nvim config.nu
+clear
+nvim config.nu
+oh-my-posh init nu --config ~/.config/powershell/xube.omp.json
+ls
+nvim config.nu
+nvim env.nu
+clear
+ls
+cd
+clea
+rclear
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls =la
+clear
+cd dev
+z dev
+ls
+nvim env.nu
+cd Appdata\Roaming
+cd nushell
+ls
+clear
+ls
+nvim config.nu
+ls
+nvim env.nu
+clear
+z dev
+ls
+clear
+cd
+clea
+clear
+z development
+ls
+clear
+c
+clear
+cd
+clear
+ls
+clear
+ls
+clear
+ls
+z ,config
+cd .config
+ls
+cd powershell
+ls
+nvim xube.omp.json
+cd
+z power
+ls
+clear
+cd\
+cd
+home
+clear
+cd
+cd home
+clear
+exit
+nu
+exit
+nu
+exit
+nu
+exit
+nu
+exit
+nu
+exit
+nu
+exit
+nu
+exit
+nu
+exit
+nu
+exit
+nu
+exit
+clear
+z Pictures
+ls
+clear
+git clone https://github.com/ChrisTitusTech/nord-background.git
+winget
+wsl.exe --update
+clear
+ls
+ls -la
+clear
+lear
+clea
+cr
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+z Pictures
+ls
+clear
+exit
+clear
+ls
+clear
+z Pictures
+ls
+cd `All Backgrounds\`
+ls
+git init
+sudo pwsh
+clear
+z .glaze-wm\
+ls
+rm config.yaml
+nvim config.yaml
+ls
+clear
+ls
+z .glaze-wm\
+clear
+ls
+nvim config.yaml
+z .glaze-wm\
+clear
+ls
+nvim config.yaml
+z .glaze-wm\
+clear
+ls
+nvim config.yaml
+clear
+z .glaze-wm\
+ls
+nvim config.yaml
+scoop install msedgeredirect
+clear
+winget install MSEdgeRedirect
+clear
+ls
+z .glaze-wm\
+ls
+nvim config.yaml
+clear
+cd
+clear
+exit
+clear
+z dev
+ls
+clear
+git clone https://github.com/nulldoot2k/chat-bubbles-for-yt.git
+clear
+ls
+cd chat-bubbles-for-yt\
+ls
+npm install vite
+npm
+pwsh
+npm
+clear
+exit
+npm
+clear
+z dev
+ls
+cd chat-bubbles-for-yt\
+ls
+clear
+npm install vite
+npm run build
+npm run preview
+clear
+cd
+clear
+ls
+clear
+exit
+clear
+ls
+clear
+ls
+exit
+clear
+ls
+clear
+git clone https://github.com/open-webui/open-webui.git
+clear
+z open-webui\
+ls
+clear
+ollama --version
+clear
+ollama
+clear
+ollama --version
+ollama pull llama3
+ollama run llama3
+clear
+ls
+z open-webui\
+clear
+ls
+pip
+python
+winget search python
+winget install python
+pip
+pip install conda
+pip install anaconda
+conda
+anaconda
+z open-webui\
+clar
+clear
+conda
+python
+pip install anaconda
+conda
+clear
+pwsh
+exit
+conda
+clear
+z open-webui\
+cleaer
+clear
+conda create --name openwebui python=3.11
+ls
+conda activate openwebui
+conda init
+conda activate openwebui
+conda init
+conda activate openwebui
+conda
+conda active
+conda activate
+conda activate openwebui
+exit
+z open-webui\
+conda activate openwebui
+conda init
+sudo pwsh
+clear
+python --version
+conda init
+conda activate openwebui
+sudo conda activate openwebui
+clear
+python --version
+conda
+conda list
+conda install
+clear
+z open-webui\
+conda
+conda create --name openwebui python=3.11
+conda activate openwebui
+python --version
+conda init
+sudo conda init
+conda activate openwebui
+conda init nu
+conda init nushell
+conda init pwsh
+pwsh
+exit
+clear
+ls
+z dev
+ls
+z ..
+clear
+ls
+z open-webui\
+ls
+z backend
+ls
+cd ,,
+.\start_windows.bat
+pwsh
+exit
+clear
+z backend
+ls
+.\start_windows.bat
+npm run build
+.\start_windows.bat
+ls
+conda
+conda activate openwebui
+conda init
+clear
+ls
+clear
+z desk
+z desktop
+ls
+cd ..
+z desk
+clear
+nvim gpt.bat
+ls
+nvim gpt.ps1
+.\gpt.ps1
+explorer .
+clear
+z desktop
+ls
+mkdir gpt
+mv startgpt.ps1 /gpt
+ls
+mv startgpt.ps1 /gpt
+explorer .
+clear
+z gpt
+ls
+nvim stopgpt.ps1
+.\stopgpt.ps1
+explorer .
+clear
+ls
+clear
+ls
+pwsh stopgpt.ps1
+nvim stopgpt.ps1
+pwsh stopgpt.ps1
+nvim gpt.pu
+nvim gpt.py
+ls
+rm -r gpt.py
+nvim gpt.py
+./gpt.py
+py gpt.py
+nvim gpt.py
+rm -r gpt.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim gpt.py
+pip search pyqt5
+pip install pyqt5
+ls
+py gpt.py
+z desk
+z gpt
+py gpt.py
+pip install PyQt5
+z gpt
+py gpt.py
+nvim test.py
+py test.py
+clear
+rm -r test.py
+z gpt
+ls
+rm a.py
+rm foo.py
+rm z.py
+ls
+rm test.py
+nvim test.py
+py test.py
+rm test.py
+ls
+nvim test.py
+py test.py
+rm test.py
+nvim test.py
+z gpt
+nvim startgpt.ps1
+py test.py
+pwsh startgpt.ps1
+ls
+rm test.py
+nvim test.py
+py test.py
+clear
+nvim foo.py
+py foo.py
+rm foo.py
+nvim foo.py
+py foo.py
+rm foo.py
+nvim foo.py
+py foo.py
+ls
+pwsh stopgpt.ps1
+nvim gpt.html
+./gpt.html
+nvim foo.html
+./foo.html
+npm install express http ws
+clear
+ls
+explorer .
+sudo pwsh
+clear
+z .glaze-wm\
+clear
+ls
+nvim config.yaml
+wsl.exe --update
+wsl.exe --list
+wsl.exe --help
+wsl.exe --list
+wsl.exe --install
+exit
+z .glaze-wm\
+clear
+ls
+nvim config.yaml
+z .glaze-wm\
+clear
+ls
+nvim config.yaml
+clear
+z .glaze-wm\
+clear
+ls
+nvim config.yaml
+clear
+ls
+clear
+exit
+clear
+ls
+clear
+ls
+clear
+exit
+z .glaze-wm\
+clear
+ls
+nvim config.yaml
+iex (irm vivtetool.tc.ht)
+vivteool
+vivetool
+exit
+vivetool
+clear
+ls
+cd ..
+clear
+ls
+z TCHT
+ls
+clear
+nvim history.txt
+vivetool /enable /id:47205210 /variant:2
+nvim history.txt
+vivetool /enable /id:46892085
+vivetool /enable /id:48433719
+clear
+z ..
+ls
+z TCHT\
+ls
+nvim history.txt
+vivetool /enable /id:47205210 /variant:2
+sudo reboot
+reboot
+clear
+z TCHT\
+cd ..
+z TCHT\
+clear
+ls
+nvim history.txt
+nvim history.ps1
+.\history.ps1
+explorer .
+sudo pwsh history.ps1
+arch
+ollama run llama3
+zoxide
+zi
+clear
+ls
+clear
+ls
+z nushell
+ls
+clear
+ls
+nvim config.yu
+laskjfd
+nvim config.nu
+nushell
+clear
+ls
+nvim config.nu
+starship
+winget install starship
+ls
+cd ..
+ls
+cd starship
+ls
+cd ..
+ls
+cd ..
+ls
+z power
+ls
+z nushell
+ls
+z nushell
+ls
+cd ~/appdata
+ls
+cd local
+ls
+cd nushell
+ls
+cd ..
+ls
+cd Roaming\
+ls
+cd nushell
+ls
+nvim config.nu
+nushell
+clear
+ls
+clear
+ls
+z power
+ls
+nvim starship.toml
+clear
+dc
+cd
+mkdir ~/.cache/starship
+starship init nu | save -f ~/.cache/starship/init.nu
+ls
+clear
+z nushell
+ls
+nvim config.nu
+ls
+nvim env.nu
+clear
+ls
+nvim config.nu
+ls
+clear
+starship init nu
+starship.nu
+ls
+z nushell
+ls
+nvim env.nu
+ls
+nvim config.nu
+clear
+ls
+cd
+clear
+ls
+nvim starship.toml
+clear
+ls
+z nushell
+ls
+cd ..
+clear
+ls
+clear
+z nushell
+ls
+nvim config.nu
+ls
+nvim config.nu
+clear
+ls
+z nushell
+ls
+clear
+ls
+cd ~/appdata/roaming
+ls
+z nushell
+ls
+clear
+ls
+z nushell
+cd nushell
+ls
+nvim config.nu
+export STARSHIP_CONFIG=~/.config/powershell/starship.toml
+ls
+cd
+cd .config
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+z power
+ls
+cd
+z nu
+ls
+nvim config.nu
+nushell
+clear
+ls
+z
+nvim config.nu
+export STARSHIP_CONFIG=~/.config/starship.toml
+set custom starship prompt in nushell
+dir %USERPROFILE%\.config\starship.toml
+clear
+ls
+clear
+ls
+nu starship.toml
+ls
+cd
+clear
+z nu
+ls
+nvim config.nu
+nvim env.nu
+zi
+fzf
+psfzf
+Show-Directory
+ls
+clear
+ls
+cd
+clear
+ls
+cd appdata
+ls
+cd roaming
+ls
+clear
+ls
+cd nushell
+ls
+clear
+ls
+nvim config.nu
+ls
+nvim config.nu
+ls
+clear
+ls
+nvim starship.nu
+ls
+clear
+ls
+z nu
+ls
+nvim starship.nu
+ls
+cd
+clear
+z C:\Program Files\starship\b
+ls
+cd C:\Program Files\starship\bin
+cd "C:\Program Files\starship\bin"
+ls
+clear
+ls
+cd C:\ls
+cd C:\
+ls
+cd `Program Files\`
+ls
+cd starship
+ls
+cd bin
+ls
+cd
+clear
+z nu
+ls
+nvim starship.nu
+$env:STARSHIP_CONFIG = "~/.config/starship.toml"
+let-env STARSHIP_CONFIG = "~/.config/starship.toml"
+$env.STARSHIP_CONFIG = "~/.config/starship.toml"
+ls
+nvim starship.nu
+ls
+nvim config.nu
+ls
+nvim starship.nu
+ls
+nvim config.nu
+echo $nu.env.STARSHIP_CONFIG
+echo $env.STARSHIP_CONFIG
+ls
+cd .config
+ls
+z .config
+ls
+nvim starship.toml
+cd
+ls
+nvim starship.toml
+z .config
+ls
+nvim starship.toml
+ls
+cd
+clear
+ls
+clear
+z nu
+ls
+nvim config.nu
+ls
+cd
+cd .config
+ls
+clear
+ls
+clear
+ls
+clear
+z .glaze-wm\
+ls
+nvim config.yaml
+ls
+nvim config.yaml
+cd
+clear
+wt
+ls
+clear
+ls
+z .glaze-wm\
+ls
+nvim config.yaml
+ls
+z appdata
+ls
+z .glaze-wm\
+ls
+cd
+z .glaze-wm\
+ls
+nvim config.yaml
+clear
+z .glaze-wm\
+ls
+nvim config.yaml
+zi
+clear
+ls
+clear
+ls
+clear
+cd
+clear
+ls
+cr
+clear
+ls
+set-alias
+alias
+$nu.alias
+$nu.help
+help
+sys | get host
+neofetch
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+z open-webui\
+ls
+clear
+cd
+clear
+z desktop
+ls
+cd
+clear
+ls
+clear
+cd C:\Users\musta\AppData\Local\min
+ls
+cd ..
+rm -r min
+ls
+cd
+clear
+ls
+clear
+z D:?
+z D:/
+ls
+z D:/
+cd
+z D
+ls
+cd
+z D:/
+ls
+clear
+git clone https://github.com/thismat/nord-windows-terminal.git
+ls
+z nord-windows-terminal\
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+sys | get host
+ls
+clear
+winget
+winget search giggle
+clear
+ls
+nu starship.toml
+nu help
+help
+help nu
+help -h
+help match nu
+help match
+help -h
+cat starship.toml
+clear
+ls
+open starship.toml
+clear
+ls
+cd
+clear
+z nushell
+ls
+clear
+ls
+open config.nu
+ls
+open history.txt
+ls
+history
+clear
+ls
+cd
+clear
+ls
+z D:/
+ls
+clear
+help -h
+help aliases
+set-alias
+alias
+aliases 
+alias
+alias set 
+alias set home cd
+alias set home=cd
+alias
+alias=
+alias set
+alias set home
+alias set home cd
+alias set home=cd
+alias home=cd
+cd
+home
+alias home=cd
+alias home = cd
+z power
+home
+clear
+ls
+clear
+home
+ls
+clear
+z nu
+ls
+clear
+ls
+nvim config.nu
+clear
+home
+dev
+nvim config.nu
+z nu
+ls
+nvim config.nu
+z
+home
+dev
+clear
+nvim config.nu
+clear
+ls
+clear
+ls
+clear
+vu
+clear
+ls
+clear
+z nushell
+ls
+nvim config.nu
+zu
+nvim config.nu
+clear
+r
+clear
+ls
+clear
+vu
+clear
+vu
+cd
+clear
+zu
+clear
+vu
+zu
+nvim config.nu
+vu\
+vu
+clear
+zu
+clear
+vu
+clear
+zu
+clear
+cd
+clear
+home
+clear
+ls
+cear
+clar
+clear
+z
+clear
+zu
+clear
+cr
+clear
+vu
+cr
+clear
+cr
+home
+h
+vu
+h
+cr
+zu
+h
+cr
+open
+v
+celar
+cr
+clear
+vu
+cr
+v
+ls
+c setup.ps1
+v setup.ps1
+vu
+v
+v setup.ps1
+open setup.ps1
+open
+clear
+ls
+open starship.toml
+ls
+vu
+cr
+open starship.toml
+cr
+clear
+nvim config.nu
+vu
+keybindings
+keybindings listen
+keybindings list
+PreviousHistory
+vu
+config
+config keybinding
+config keybinding ctrl+f zi
+def custom-command [] {<\n>    ls<\n>}
+custom-command
+clear
+ls
+clear
+vu
+clear
+cr
+wsl --install kali
+wsl.exe --list
+wsl.exe --list --online
+clear
+ls
+celar
+clear
+ll
+clear
+ls
+z desk
+clear
+wsl.exe --install kali-linux
+nvim kex.ps1
+e
+clear
+e .
+clear
+vu
+e .
+ls
+clear
+ls
+clear
+show setup.ps1
+show
+ls
+z powere
+ls
+z power
+ls
+show xube.omp.json
+cr
+h
+cr
+vu
+nu setup.ps1
+ls
+show setup.ps1
+open setup.ps1
+clear
+ls
+open xube.omp.json
+cr
+h
+cr
+exit
+nu
+exit
+history
+cr
+e
+x
+cr
+vu
+cr
+r
+x
+exit
+cr
+wsl.exe --list
+wsl.exe --remove Arch
+wsl.exe --remove Ubuntu
+wsl.exe --help
+clear
+dev
+cr
+ls
+cr
+clear
+mkdir biolink
+z biolink
+cr
+ls
+clear
+ll
+cr
+nvim index.html
+clear
+ls
+clear
+nvim index.html
+clear
+h
+z appdata
+z local
+z nvim-data
+ls
+z shada
+mv main.shada main.shada.bak
+rm main.shada
+clear
+dev
+cr
+ls
+z bio
+ls
+nvim index.html
+ls
+cr
+z Down
+z Downloads
+ls
+clear
+ls
+clear
+git clone https://github.com/craftzdog/link-in-bio.git
+z link-in-bio\
+ls
+clear
+ls
+zi
+ls
+clear
+ls
+explorer .
+nvim index.html
+explorer .
+nvim d
+nvim index.html
+clear
+ls
+clear
+nvim index.html
+winget search dropbox
+winget install Dropbox.Dropbox
+winget search files
+winget install 9P6T8HXSG978
